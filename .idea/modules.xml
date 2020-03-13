@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/USP.iml" filepath="$PROJECT_DIR$/USP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/artifactid/artifactid.iml" filepath="$PROJECT_DIR$/artifactid/artifactid.iml" />
+    </modules>
+  </component>
+</project>
